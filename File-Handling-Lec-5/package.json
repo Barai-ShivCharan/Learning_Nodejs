@@ -1,0 +1,12 @@
+{
+  "name": "file-handling-lec-5",
+  "version": "1.0.0",
+  "description": "In this Lecture ,I have learn fs module in nodejs",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node file.js"
+  },
+  "author": "ShivCharan",
+  "license": "ISC"
+}

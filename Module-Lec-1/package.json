@@ -1,0 +1,12 @@
+{
+  "name": "module-lec-1",
+  "version": "1.0.0",
+  "description": "Learning Module In Nodejs",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "author": "ShivCharan",
+  "license": "ISC"
+}

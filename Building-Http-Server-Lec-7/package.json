@@ -1,0 +1,11 @@
+{
+  "name": "building-http-server-lec-7",
+  "version": "1.0.0",
+  "description": "In this Lecture i want to learn http server building.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ShivCharan",
+  "license": "ISC"
+}
